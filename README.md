@@ -20,6 +20,13 @@ which contains:
 - Color-coded runways (red: inactive/restricted)
 - Toggleable legend
 
+planned features:
+
+ - neighbouring FIRs up to 500 NM from Changi Airport
+ - sector informations
+ - search feature
+ - distance measuring feature
+
 
 ---
 
