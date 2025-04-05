@@ -25,6 +25,7 @@ planned features:
  - neighbouring FIRs up to 500 NM from Changi Airport
  - sector informations
  - search feature
+ - STAR and SID chart
  - distance measuring feature
 
 
