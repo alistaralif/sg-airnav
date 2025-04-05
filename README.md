@@ -21,4 +21,10 @@ which contains:
 - Toggleable legend
 
 
+---
 
+### 📌 About
+
+I, a Research Engineer at [ATMRI](https://www.ntu.edu.sg/atmri), had built this map to consolidate and visualise the STARs and SIDs of Singapore Changi Airport as well as related aerodrome information within and surrounding the Singapore FIR. References were taken from the [Singapore Aeronautical Information Products (AIP)](https://aim-sg.caas.gov.sg/aip/?s=C56286BB05CBC7E3913ED001FED600F0D70FF020), published by CAAS as well as gmaps and other sources found on the internet. For research purposes.
+
+If you're interested in collaborating, please reach out at 📧 [alistaralif.zufir@e.ntu.edu.sg](mailto:alistaralif.zufir@e.ntu.edu.sg)
