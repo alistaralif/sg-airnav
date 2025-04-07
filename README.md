@@ -8,7 +8,7 @@
 
 ### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html
 
-#### latest version: 1.0
+#### latest version: 1.0.1
 
 which contains:
 
@@ -19,11 +19,12 @@ which contains:
 - Relevant waypoints
 - Color-coded runways (red: inactive/restricted)
 - Toggleable legend
+- Singapore FIR sectors
+
 
 planned features:
 
  - neighbouring FIRs up to 500 NM from Changi Airport
- - sector informations
  - search feature
  - STAR and SID chart
  - distance measuring feature
