@@ -1,10 +1,10 @@
 ## ✈️ Singapore Airspace &amp; Navigation Map
 
 ### Default View
-<img width="1726" alt="defaultview" src="https://github.com/user-attachments/assets/7bb57077-c8fe-4670-a70a-2279e231e520" />
+<img width="1728" alt="defaultview_sectors" src="https://github.com/user-attachments/assets/fb17689b-4165-4bda-9f4d-b49b5280ff38" />
 
-### Singapore View
-<img width="1728" alt="singapore" src="https://github.com/user-attachments/assets/7555d0eb-719e-4125-9dd0-928c810d59b6" />
+### Singapore View (with toggled STARs)
+<img width="1728" alt="wsss_star_RWY02" src="https://github.com/user-attachments/assets/743647b4-48d9-4e3c-b5f5-f661f3beb832" />
 
 ### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html
 
