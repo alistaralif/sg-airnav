@@ -4,9 +4,9 @@
 <img width="1728" alt="defaultview_sectors" src="https://github.com/user-attachments/assets/fb17689b-4165-4bda-9f4d-b49b5280ff38" />
 
 ### Singapore View (with toggled STARs)
-<img width="1728" alt="wsss_star_RWY02" src="https://github.com/user-attachments/assets/743647b4-48d9-4e3c-b5f5-f661f3beb832" />
+<img width="1728" alt="wsss_star_RWY02" src="https://github.com/user-attachments/assets/e076d57b-0105-4474-959e-1c9445058c33" />
 
-### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html
+### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html 👈🏻
 
 #### latest version: 1.0.1
 
