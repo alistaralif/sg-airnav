@@ -8,7 +8,7 @@
 
 ### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html 👈🏻
 
-#### latest version: 1.0.1
+#### latest version: 1.3.0 (Dash app)
 
 which contains:
 
@@ -20,14 +20,13 @@ which contains:
 - Color-coded runways (red: inactive/restricted)
 - Toggleable legend
 - Singapore FIR sectors
-
+- neighbouring FIRs up to 500 NM from Changi Airport
+- runway search feature
+- distance measuring feature (circle with variable radius)
 
 planned features:
-
- - neighbouring FIRs up to 500 NM from Changi Airport
- - search feature
  - STAR and SID chart
- - distance measuring feature
+ - distance measuring feature (point to point)
 
 
 ---
