@@ -24,7 +24,10 @@ which contains:
 - runway search feature
 - distance measuring feature (circle with variable radius)
 
+
 planned features:
+
+ - popular aerodromes within 500nm of Changi Airport
  - STAR and SID chart
  - distance measuring feature (point to point)
 
