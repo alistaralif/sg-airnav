@@ -1,7 +1,7 @@
 ## ✈️ Singapore Airspace &amp; Navigation Map
 
 ### Default View
-![Uploading 1.3.0 - default.png…]()
+<img width="1728" alt="1 3 0 - default" src="https://github.com/user-attachments/assets/f9575863-3b3d-4d07-824b-e190ac0f6f00" />
 
 ### FIRs and sectors
 <img width="1728" alt="1 3 0 - FIRs and sectors" src="https://github.com/user-attachments/assets/6093c27b-5673-4603-a45e-d05e01c6c9c5" />
