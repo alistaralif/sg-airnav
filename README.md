@@ -1,21 +1,21 @@
 ## ✈️ Singapore Airspace &amp; Navigation Map
 
 ### Default View
-<img width="1728" alt="1 3 0 - default" src="https://github.com/user-attachments/assets/f9575863-3b3d-4d07-824b-e190ac0f6f00" />
+<img width="1728" alt="1 4 1 - default" src="https://github.com/user-attachments/assets/2959d0b7-302c-468d-8646-f49be7d9797e" />
 
 ### FIRs and sectors
-<img width="1728" alt="1 3 0 - FIRs and sectors" src="https://github.com/user-attachments/assets/6093c27b-5673-4603-a45e-d05e01c6c9c5" />
+<img width="1728" alt="1 4 1 - FIRs and sectors" src="https://github.com/user-attachments/assets/97e30e9d-8383-4827-aeec-ddcf84bc43cc" />
 
 ### Waypoints
-<img width="1728" alt="1 3 0 - waypoints" src="https://github.com/user-attachments/assets/bc3a00b2-5465-43b9-9ccf-ce8bc5e03579" />
+<img width="1728" alt="1 4 1 - waypoints" src="https://github.com/user-attachments/assets/6729853e-49f6-4706-a69e-2ae68c8084c0" />
 
 ### STARs and SIDs
-<img width="1728" alt="1 3 0 - STARs and SIDs" src="https://github.com/user-attachments/assets/9f7f97b7-66d4-4158-9583-eab99e700eb4" />
+<img width="1728" alt="1 4 1 - STARs and SIDs" src="https://github.com/user-attachments/assets/42abc9d9-8a25-4825-936f-7f3e2f53b44f" />
 
 
 ### 🗺️ Interactive Map: https://alistaralif.github.io/sg-airnav/sg-airnav-map.html 👈🏻
 
-#### latest version: 1.3.0 (Dash app)
+#### latest version: 1.4.1 (Dash app)
 
 which contains:
 
@@ -30,11 +30,11 @@ which contains:
 - neighbouring FIRs up to 500 NM from Changi Airport
 - runway search feature
 - distance measuring feature (circle with variable radius)
+- popular aerodromes within 500nm of Changi Airport
 
 
 planned features:
 
- - popular aerodromes within 500nm of Changi Airport
  - STAR and SID chart
  - distance measuring feature (point to point)
 
